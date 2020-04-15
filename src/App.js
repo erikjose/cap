@@ -5,6 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>React</h1>
+        <strong>Ten years</strong>
       </header>
     </div>
   );
